@@ -112,3 +112,5 @@ export class AppComponent implements OnInit {
       : DualListComponent.RTL;
   }
 }
+
+//
